@@ -1,0 +1,2 @@
+# Sentiment-Analysis-of-Product-Reviews-using-Naive-Bayes
+Sentiment Analysis of Product Reviews using Naive Bayes is simple and effective machine learning method to classify reviews as positive or negative based on text. It uses word probabilities from labeled data to predict sentiment achieving good accuracy for review classification tasks.This approach is widely used for understanding customer feedback
